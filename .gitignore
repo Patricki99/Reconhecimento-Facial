@@ -1,0 +1,21 @@
+# React (frontend)
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# Flask / Python (backend)
+api/venv/
+api/__pycache__/
+api/*.pyc
+api/.env
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Editor config
+.vscode/
+.idea/
